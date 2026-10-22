@@ -1,16 +1,19 @@
 body {
-    background-color: #527AA3;
-    color: #333;
+    background-color: #2B4055;
+    color: #E6E6E6;
 }
+
 .container {
     margin-top: 50px;
+    background-color: #2B4055;
+    color: #E6E6E6;
 }
 .jumbotron {
-    background-color: #527AA3;
+    background-color: #06243e;
 }
 .btn-primary {
     background-color: #06243e;
-    border-color: #9aacbd;
+    border-color: #E6E6E6;
 }
 .btn-primary:hover {
     background-color: #5a9fe4;
